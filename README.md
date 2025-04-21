@@ -18,8 +18,7 @@ A minimalist SwiftUI app for tracking personal items, calculating cost-per-day u
 
 ## 🖼️ Preview
 
-Coming soon... *(Add screenshots once available)*
-
+Coming soon... 
 ---
 
 ## 🧠 Technologies Used
@@ -39,3 +38,4 @@ Clone this repository and open it with Xcode:
 ```bash
 git clone https://github.com/IVVI0927/AssetTracker-iOS.git
 open AssetTracker-iOS.xcodeproj
+
